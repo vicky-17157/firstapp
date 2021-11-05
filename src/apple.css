@@ -1,0 +1,30 @@
+.container {
+    border-collapse: separate;
+    border-spacing: 0 15px;
+  }
+  
+  .flex-large {
+    background-color: #50d7f5;
+    color: rgb(7, 90, 90);
+    text-align: center;
+  }
+  
+  .th,
+  td {
+    width: 150px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+    color: rgb(1, 63, 63);
+    background-color: rgb(172, 240, 126);
+  }
+
+  .flex-row{
+      background-color: rgb(171, 37, 248);
+      color: rgb(78, 245, 78);
+  }
+
+  .tt{
+      color:rgb(4, 58, 58);
+      text-align: center;
+  }
